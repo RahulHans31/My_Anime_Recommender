@@ -8,7 +8,6 @@ st.title("My Anime Recommender")
 
 cv = CountVectorizer(max_features = 1000, stop_words='english')
 
-@st.cache
 def data_load():
     animedict=pickle.load(open('animedict.pkl' , 'rb'))
     animes = pd.DataFrame(animedict)
