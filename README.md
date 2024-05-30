@@ -54,6 +54,3 @@ Contributions are welcome! If you have ideas for improving the recommendation sy
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README according to your specific recommendation system implementation, data sources, and any additional features you've incorporated. Happy recommending! 🌟
